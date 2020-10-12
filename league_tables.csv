@@ -1,0 +1,89 @@
+﻿year,Rk,Squad,MP,W,D,L,GF,GA,GDiff,Pts,Attendance,Top Team Scorer,Goalkeeper,Notes
+2019,1, Al-Hilal,30,22,6,2,74,26,48,72,"10,683",Bafétimbi Gomis - 27,Abdullah Al-Mayouf,
+2019,2, Al-Nassr,30,19,7,4,60,26,34,64,"8,923",Abderrazak Hamdallah - 29,Brad Jones,
+2019,3, Al-Ahli,30,15,5,10,49,36,13,50,"10,244",Omar Al Somah - 19,Yasser Al Mosailem,
+2019,4, Al-Wehda,30,16,1,13,45,40,5,49,"6,703",Youssouf Niakaté - 16,Abdullah Al Jadani,
+2019,5, Al-Faisaly,30,14,6,10,41,36,5,48,"2,459",Youssef El Jebli - 9,Mustafa Malayekah,
+2019,6, Al-Raed,30,13,7,10,41,50,-9,46,"3,616",Mohamed Fouzair - 10,Azzedine Doukha,
+2019,7, Al-Shabab,30,12,7,11,38,37,1,43,"6,482",Cristian Guanca - 11,Farouk Ben Mustapha,
+2019,8, Al-Ettifaq,30,13,3,14,46,38,8,42,"4,393",Filip Kiss - 7,Raïs M'Bolhi,
+2019,9, Abha,30,11,5,14,41,52,-11,38,"2,143",Saad Bguir - 12,Abdelali Mhamdi,
+2019,10, Damac,30,9,8,13,37,52,-15,35,"3,705",Emilio Zelaya - 13,Moustapha Zeghba,Relegated
+2019,11, Al-Ittihad,30,9,8,13,42,41,1,35,"13,822",Romarinho - 15,Marcelo Grohe,
+2019,12, Al-Taawoun,30,10,5,15,33,40,-7,35,"3,828",Héldon Ramos - 7,Cássio,
+2019,13, Al-Fateh,30,8,9,13,42,49,-7,33,"7,305",Mitchell te Vrede - 12,Maksym Koval,Relegated
+2019,14, Al-Fayha,30,8,8,14,34,44,-10,32,"3,199","Samuel Owusu, Ronnie Fernández - 7",Amer Shafi,
+2019,15, Al-Hazem,30,7,6,17,40,61,-21,27,"1,277",Carlos Strandberg - 13,Malik Asselah,
+2019,16, Al-Adalah,30,4,9,17,27,62,-35,21,"6,420",Carolus Andriamatsinoro - 10,Ali Al-Mazidi,Relegated
+2018,1, Al-Nassr,30,22,4,4,69,27,42,70,"16,408",Abderrazak Hamdallah - 34,Brad Jones,→ AFC Champions League via league finish
+2018,2, Al-Hilal,30,21,6,3,66,33,33,69,"19,551",Bafétimbi Gomis - 21,Ali Al-Habsi,→ AFC Champions League via league finish
+2018,3, Al-Taawoun,30,16,8,6,61,31,30,56,"4,446",Léandre Tawamba - 21,Cássio,
+2018,4, Al-Ahli,30,17,4,9,68,41,27,55,"18,889",Djaniny - 20,Mohammed Al-Owais,→ AFC Champions League via league finish
+2018,5, Al-Shabab,30,15,9,6,39,25,14,54,"3,428",Constantin Budescu - 7,Farouk Ben Mustapha,
+2018,6, Al-Faisaly,30,12,7,11,51,47,4,43,"1,190",Rogerinho - 8,Mustafa Malayekah,
+2018,7, Al-Wehda,30,12,6,12,41,41,0,42,"7,527",Marcos Guilherme - 9,Mohamed Awad,
+2018,8, Al-Raed,30,10,8,12,38,48,-10,38,"4,089",Saleh Al-Shehri - 16,Azzedine Doukha,
+2018,9, Al-Fateh,30,8,11,11,32,45,-13,35,"3,427",Abdelkader Oueslati - 5,Maksym Koval,
+2018,10, Al-Ittihad,30,9,7,14,44,45,-1,34,"33,482",Fahad Al Muwallad - 11,Fawaz Al-Qarni,
+2018,11, Al-Ettifaq,30,8,9,13,40,55,-15,33,"4,903",Cristian Guanca - 14,Raïs M'Bolhi,
+2018,12, Al-Fayha,30,9,5,16,36,52,-16,32,"1,896",Danilo Moreno Asprilla - 15,Cristian Bonilla,
+2018,13, Al-Hazem,30,7,10,13,33,50,-17,31,"1,998",Mohammed Al-Saiari - 10,Malik Asselah,→ Saudi 1/2 Relegation/Promotion Playoff
+2018,14, Al-Qadsiah,30,8,4,18,34,51,-17,28,"2,882",Bismark Ferreira - 10,Jack Duncan,Relegated
+2018,15, Al-Batin,30,7,4,19,29,53,-24,25,"3,476","Crysan, Jhonnattann Da Conceicao - 6",Adriano Facchini,Relegated
+2018,16, Ohod,30,5,6,19,25,62,-37,21,"7,075","Mohammed Majrashi, Saqer Otaif... - 3",Zouheir Laaroubi,Relegated
+2017,1, Al-Hilal,26,16,8,2,47,23,24,56,"12,194","Omar Kharbin, Gelmin Rivas - 7","Ali Al-Habsi, Abdullah Al-Mayouf",→ AFC Champions League via league finish
+2017,2, Al-Ahli,26,16,7,3,59,26,33,55,"16,213",Omar Al Somah - 11,Mohammed Al-Owais,→ AFC Champions League via league finish
+2017,3, Al-Nassr,26,12,8,6,47,34,13,44,"5,480","Mohammed Al Sahlawi, Leonardo - 10",Waleed Abdullah,→ AFC Champions League via league finish
+2017,4, Al-Ettifaq,26,10,6,10,37,46,-9,36,"3,090",Hazaa Al-Hazaa - 7,Ahmed Al-Kassar,
+2017,5, Al-Fateh,26,9,9,8,34,39,-5,36,"2,978",João Pedro Pereira dos Santos - 9,Ali Al-Mazidi,
+2017,6, Al-Faisaly,26,9,8,9,39,33,6,35,972,Luis Gustavo Melere da Silva - 9,Mustafa Malayekah,
+2017,7, Al-Taawoun,26,9,7,10,43,36,7,34,"3,876",Cédric Amissi - 6,Essam El-Hadary,
+2017,8, Al-Fayha,26,8,10,8,36,40,-4,34,938,Ronnie Fernández - 13,Abdulrahman Dagriri,
+2017,9, Al-Ittihad,26,8,9,9,34,41,-7,33,"16,213",Ahmed Akaïchi - 10,Fawaz Al-Qarni,
+2017,10, Al-Shabab,26,8,7,11,36,36,0,31,"2,135",Nasser Al-Shamrani - 7,Farouk Ben Mustapha,
+2017,11, Al-Batin,26,8,7,11,35,46,-11,31,"2,689",Jorge Santos Silva - 11,Mazyad Freeh,
+2017,12, Al-Qadsiah,26,6,7,13,28,41,-13,25,"2,073",Bismark Ferreira - 10,Faisel Masrahi,
+2017,13, Al-Raed,26,5,9,12,43,53,-10,24,"4,769",Ismaël Bangoura - 10,Mutaeb Sharahili,Relegated
+2017,14, Ohod,26,4,6,16,24,48,-24,18,"6,102",Hichem Essifi - 5,Azzedine Doukha,Relegated
+2016,1, Al-Hilal,26,21,3,2,63,16,47,66,"15,387","Léo Bonatini, Carlos Eduardo - 12",Abdullah Al-Mayouf,→ AFC Champions League via league finish
+2016,2, Al-Ahli,26,17,4,5,57,30,27,55,"20,689",Omar Al Somah - 24,Yasser Al Mosailem,→ AFC Champions League via league finish
+2016,3, Al-Nassr,26,16,4,6,44,25,19,52,"7,635",Hassan Al Raheb - 9,Hussain Shae'an,Ineligible for continental competition 1
+2016,4, Al-Ittihad,26,17,4,5,57,37,20,52,"25,407",Kahraba - 16,Assaf Al-Qarni,3-point deduction; ineligible for continental competition 2
+2016,5, Al-Raed,26,11,2,13,37,47,-10,35,"5,843",Ismaël Bangoura - 18,Mutaeb Sharahili,Ineligible for continental competition 3
+2016,6, Al-Shabab,26,8,9,9,28,32,-4,33,"2,801",Mohamed Benyettou - 10,Waleed Abdullah,Ineligible for continental competition 4
+2016,7, Al-Taawoun,26,9,4,13,33,40,-7,31,"5,025",Mounir El Hamdaoui - 5,Fahad Al-Shamri,Ineligible for continental competition 5
+2016,8, Al-Fateh,26,7,8,11,33,39,-6,29,"3,384",Nathan Júnior - 5,Abdullah Al-Owaishir,Ineligible for continental competition 6
+2016,9, Al-Faisaly,26,6,10,10,30,41,-11,28,760,Luis Gustavo Melere da Silva - 9,Mustafa Malayekah,
+2016,10, Al-Qadsiah,26,6,10,10,38,38,0,28,"1,719",Bismark Ferreira - 8,Faisel Masrahi,
+2016,11, Al-Ettifaq,26,7,6,13,31,45,-14,27,"3,767","Mohammed Al-Kwikbi, Hazaa Al-Hazaa - 5",Ahmed Al-Kassar,
+2016,12, Al-Batin,26,6,8,12,31,43,-12,26,"2,609",Jorge Santos Silva - 12,Mazyad Freeh,→ Saudi 1/2 Relegation/Promotion Playoff
+2016,13, Al-Khaleej,26,5,8,13,32,51,-19,23,"1,139",Jandson dos Santos - 12,Moslem Al Freej,Relegated
+2016,14, Al-Wehda,26,5,2,19,35,65,-30,17,"1,560",Mukhtar Fallatah - 16,Abdullah Al-Arraf,Relegated
+2015,1, Al-Ahli,26,19,6,1,55,21,34,63,"27,716",Omar Al Somah - 27,Yasser Al Mosailem,→ AFC Champions League via league finish
+2015,2, Al-Hilal,26,17,4,5,52,23,29,55,"11,804",Carlos Eduardo - 14,Khalid Sharahili,→ AFC Champions League via league finish
+2015,3, Al-Ittihad,26,15,4,7,54,37,17,49,"22,728",Gelmin Rivas - 19,Assaf Al-Qarni,Ineligible for continental competition 1
+2015,4, Al-Taawoun,26,13,6,7,54,35,19,45,"5,378",Abdulmajeed Al-Ruwaili - 13,Faiz Al Subaiei,→ AFC Champions League via league finish 2
+2015,5, Al-Fateh,26,11,8,7,35,28,7,41,"2,860",Élton José Xavier Gomes - 12,Abdullah Al-Owaishir,→ AFC Champions League via league finish
+2015,6, Al-Shabab,26,11,6,9,27,28,-1,39,"2,939",Mohamed Benyettou - 6,Mohammed Al-Owais,
+2015,7, Al-Khaleej,26,8,9,9,27,43,-16,33,"1,419",Hattan Bahebri - 5,Moslem Al Freej,
+2015,8, Al-Nassr,26,7,11,8,39,33,6,32,"6,323",Adrian Mierzejewski - 10,Hussain Shae'an,
+2015,9, Al-Wehda,26,8,7,11,30,37,-7,31,"2,916",Ali Awagi - 11,"Abdullah Al-Arraf, Ahmed Al-Fahmi",
+2015,10, Al-Faisaly,26,7,8,11,28,37,-9,29,481,Javier Balboa - 8,Mansour Al-Naje,
+2015,11, Al-Qadsiah,26,6,10,10,26,32,-6,28,"2,694","Jandson dos Santos, Saad Abdul-Amir - 5",Faisel Masrahi,
+2015,12, Al-Raed,26,6,6,14,30,45,-15,24,"4,732","Fahad Al-Johani, Ismaël Bangoura - 7",Fahad Al-Shamri,→ Saudi 1/2 Relegation/Promotion Playoff
+2015,13, Najran,26,5,6,15,36,53,-17,21,"2,674",Bismark Ferreira - 7,Abdulaziz Takrouni,Relegated
+2015,14, Hajer,26,2,3,21,15,56,-41,9,"1,710",Mohammed Al-Saiari - 6,Mustafa Malayekah,Relegated
+2014,1, Al-Nassr,26,20,4,2,62,20,42,64,"19,579",Mohammed Al Sahlawi - 21,Abdullah Al-Enezi,→ AFC Champions League via league finish
+2014,2, Al-Ahli,26,17,9,0,59,22,37,60,"36,165",Omar Al Somah - 22,Abdullah Al-Mayouf,→ AFC Champions League via league finish
+2014,3, Al-Hilal,26,16,6,4,46,17,29,54,"13,043",Nasser Al-Shamrani - 13,Abdullah Al-Sudairy,
+2014,4, Al-Ittihad,26,16,4,6,44,33,11,52,"42,371","Abdulrahman Al-Ghamdi, Marquinho - 8",Hani Al-Nahedh,→ AFC Champions League via league finish
+2014,5, Al-Shabab,26,11,7,8,37,31,6,40,"3,375",Naif Hazazi - 14,Waleed Abdullah,
+2014,6, Al-Fateh,26,9,6,11,35,43,-8,33,"3,876",Doris Fuakumputu - 10,Abdullah Al-Owaishir,
+2014,7, Al-Faisaly,26,8,6,12,31,42,-11,30,570,"Ashraf Nu'man, Islam Seraj - 6",Mansour Al-Naje,
+2014,8, Al-Khaleej,26,7,8,11,35,41,-6,29,"2,447",Hamza Al-Dardour - 7,Moslem Al Freej,
+2014,9, Al-Taawoun,26,7,7,12,42,46,-4,28,"2,968",Paul Alo'o - 15,Basim Al Atallah,
+2014,10, Hajer,26,8,4,14,29,56,-27,28,"1,622",Mohammed Al Rashed - 8,Mustafa Malayekah,
+2014,11, Al-Raed,26,7,5,14,33,45,-12,26,"3,406",Hassan Taïr - 10,Ahmed Al-Kassar,
+2014,12, Najran,26,7,3,16,28,41,-13,24,"1,175",Jandson dos Santos - 13,Mohammed Sharifi,
+2014,13, Al-Shoulla,26,5,6,15,26,48,-22,21,"1,154",Younes Alaiwi - 5,Mohammed Al-Waked,Relegated
+2014,14, Al-Orobah,26,4,5,17,21,43,-22,17,"3,723",Mousa Al-Shameri - 6,Rafea Al-Ruwaili,Relegated
